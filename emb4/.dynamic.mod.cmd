@@ -1,0 +1,1 @@
+savedcmd_/home/adith/Documents/repos/embtuts/emb4/dynamic.mod := printf '%s\n'   dynamic.o | awk '!x[$$0]++ { print("/home/adith/Documents/repos/embtuts/emb4/"$$0) }' > /home/adith/Documents/repos/embtuts/emb4/dynamic.mod
