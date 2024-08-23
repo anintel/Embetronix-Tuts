@@ -1,0 +1,1 @@
+savedcmd_/home/adith/Documents/repos/embtuts/emb6/andriver.mod := printf '%s\n'   andriver.o | awk '!x[$$0]++ { print("/home/adith/Documents/repos/embtuts/emb6/"$$0) }' > /home/adith/Documents/repos/embtuts/emb6/andriver.mod
