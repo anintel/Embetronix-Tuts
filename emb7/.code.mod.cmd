@@ -1,0 +1,1 @@
+savedcmd_/home/adith/Documents/repos/embtuts/emb7/code.mod := printf '%s\n'   code.o | awk '!x[$$0]++ { print("/home/adith/Documents/repos/embtuts/emb7/"$$0) }' > /home/adith/Documents/repos/embtuts/emb7/code.mod
