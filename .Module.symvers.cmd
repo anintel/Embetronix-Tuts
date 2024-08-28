@@ -1,1 +1,0 @@
-savedcmd_/home/adith/Documents/repos/emb2/Module.symvers :=  scripts/mod/modpost -M -m -a      -o /home/adith/Documents/repos/emb2/Module.symvers -T /home/adith/Documents/repos/emb2/modules.order -i Module.symvers -e 
