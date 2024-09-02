@@ -15,7 +15,6 @@
 
 int main(){
 
-
     printf("The user program to call IOCTL functions \n");
 
     int fd;
@@ -23,7 +22,7 @@ int main(){
 
     printf("Opening the Driver \n");
 
-    fd = open("/dev/code", O_RDWR);
+    fd = open("/dev/an_device", O_RDWR);
 
     if(fd<0) {
 
